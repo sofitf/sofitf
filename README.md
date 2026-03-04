@@ -5,21 +5,18 @@
   Transforming data into insights for better decision-making 📊
 </p>
 
----
+## ⭐ About Me
 
-## 👩‍💻 About Me
+I'm a data-driven enthusiast with strong analytical skills and a results-oriented mindset. 
+Experienced in data extraction, transformation, and analysis to support strategic and operational decision making.
 
-I'm a data-driven professional passionate about extracting meaningful insights from data.  
-I enjoy working with databases, cleaning datasets, and building analytical solutions that support strategic decisions.
-
+- 🚀 Continuously learning and improving my analytical skills  
 - 📊 Focused on Data Analysis and Business Intelligence  
 - 🐍 Experienced in Python for data analysis  
-- 🗄️ Skilled in SQL (MySQL) for database management  
-- 📈 Interested in data visualization and reporting  
-- 🚀 Continuously learning and improving my analytical skills  
+- 📈 Interested in data visualization and reporting
+- 🧪 Chemistry and statistics lover
 
-
-## 🔧 Technical Skills
+## 🔧 My toolkit
 
 <div align="center">
 
