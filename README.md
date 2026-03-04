@@ -7,15 +7,15 @@
 
 ## ⭐ About Me
 
-I'm a data-driven enthusiast with strong analytical skills and a results-oriented mindset. 
+I'm a data-driven enthusiast with strong analytical skills and a results-oriented mindset.<br>
 Experienced in data extraction, transformation, and analysis to support strategic and operational decision making.
 
 
 🚀 Continuously learning and improving my analytical skills  
 📊 Focused on Business Intelligence and performance analysis  
 🐍 Experienced in Python for data analysis  
-📈 Interested in data visualization and reporting
-🧪 Background in chemistry and statistics
+📈 Interested in data visualization and reporting  
+🧪 Background in chemistry and statistics  
 
 
 ## 🔧 My toolkit
