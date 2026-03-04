@@ -18,7 +18,6 @@ I enjoy working with databases, cleaning datasets, and building analytical solut
 - 📈 Interested in data visualization and reporting  
 - 🚀 Continuously learning and improving my analytical skills  
 
----
 
 ## 🔧 Technical Skills
 
