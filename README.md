@@ -36,7 +36,7 @@ I enjoy working with databases, cleaning datasets, and building analytical solut
     </td>
     <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="60" height="60" style="padding: 10px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft Visio" width="60" height="60" style="padding: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60" style="padding: 10px;"/>
     </td>
   </tr>
 </table>
