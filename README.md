@@ -13,8 +13,6 @@ Experienced in data extraction, transformation, and analysis to support strategi
 
 🚀 Continuously learning and improving my analytical skills  
 📊 Focused on Business Intelligence and performance analysis  
-🐍 Experienced in Python for data analysis  
-📈 Interested in data visualization and reporting  
 🧪 Background in chemistry and statistics  
 
 
